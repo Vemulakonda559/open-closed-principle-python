@@ -1,10 +1,13 @@
-# Introduction
+# Open for Extension, Closed for Modification: Applying the Open/Closed Principle in Python
 
-## Also Available on Dev.to
+> Prefer a shorter version?
 
-A shorter, reader-friendly version of this article is available on Dev.to:
-
+Read the Dev.to article:
 https://dev.to/vemulakonda559/stop-editing-working-code-understanding-the-openclosed-principle-in-python-502b
+
+---
+
+# Introduction
 
 Software is rarely built once and left unchanged forever.
 

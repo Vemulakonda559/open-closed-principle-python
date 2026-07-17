@@ -1,13 +1,3 @@
-This we will keep in Dev.to,"Stop Editing Working Code: Understanding the Open/Closed Principle in Python", and the other, "Open for Extension, Closed for Modification: Applying the Open/Closed Principle in Python", for github! will it be all right bro!
-
-
-
-Dev.to title: Stop Editing Working Code: Understanding the Open/Closed Principle in Python
-GihHub title: Open for Extension, Closed for Modification: Applying the Open/Closed Principle in Python
-
-
-
-
 # Introduction
 
 Software is rarely built once and left unchanged forever.

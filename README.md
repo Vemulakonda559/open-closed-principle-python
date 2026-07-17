@@ -1,5 +1,11 @@
 # Introduction
 
+## Also Available on Dev.to
+
+A shorter, reader-friendly version of this article is available on Dev.to:
+
+https://dev.to/vemulakonda559/stop-editing-working-code-understanding-the-openclosed-principle-in-python-502b
+
 Software is rarely built once and left unchanged forever.
 
 Requirements evolve. New features are requested. Existing functionality needs to support additional use cases. As applications grow, developers are constantly challenged with balancing two competing goals:
